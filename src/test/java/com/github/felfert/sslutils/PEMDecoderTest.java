@@ -1,4 +1,4 @@
-package com.graudata.gds2.sslutils;
+package com.github.felfert.sslutils;
 
 import static org.junit.Assert.*;
 
